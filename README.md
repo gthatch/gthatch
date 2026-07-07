@@ -1,1 +1,1 @@
-Hello! I am currently a first-year student at Northeastern University. I am taking an introductory computer science course (CS 2000) for my major, which is CS and math. 
+Currently a second-year student at Northeastern University taking Program Design & Implementation III, Theory of Computation, Probability and Statistics, and Linear Algebra.
